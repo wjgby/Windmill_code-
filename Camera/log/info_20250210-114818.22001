@@ -1,0 +1,4 @@
+Log file created at: 2025/02/10 11:48:18
+Running on machine: newmaker11-NUC11TNKi5
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0210 11:48:18.304425 22001 DevbaseUsb2.cpp:2546] ResetUSB success
